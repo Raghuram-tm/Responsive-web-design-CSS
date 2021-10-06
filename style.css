@@ -1,0 +1,10 @@
+article p {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(247, 42, 19);
+}
+article >p {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(91, 247, 19);
+}
